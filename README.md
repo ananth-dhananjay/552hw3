@@ -2,4 +2,4 @@
 
 Ananth Dhananjay
 
-Solution: `notebook/Dhananjay_Ananth_HW3.ipynb`. Data: `data/AReM/`.
+Solution: `notebook/ananth_dhananjay_HW3.ipynb`. Data: `data/AReM/`.
